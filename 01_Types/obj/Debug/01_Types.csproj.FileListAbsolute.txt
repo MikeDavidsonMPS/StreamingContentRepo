@@ -1,0 +1,14 @@
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\01_Types.dll
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\01_Types.pdb
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\obj\Debug\01_Types.csprojAssemblyReference.cache
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\obj\Debug\01_Types.csproj.CoreCompileInputs.cache
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\obj\Debug\01_Types.csproj.CopyComplete
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\obj\Debug\01_Types.dll
+C:\Users\merid\Documents\ElevenFiftyProjects\CSharpFundaments\01_Types\obj\Debug\01_Types.pdb
